@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--General Dimension-->
+    <dimen name="mini">4dp</dimen>
+    <dimen name="small">8dp</dimen>
+    <dimen name="medium">16dp</dimen>
+    <dimen name="large">32dp</dimen>
+    <dimen name="xlarge">64dp</dimen>
+    <dimen name="mega">128dp</dimen>
+    <dimen name="ultra">184dp</dimen>
+
+    <!--Text Dimension-->
+    <dimen name="small_text">8sp</dimen>
+    <dimen name="normal_text">16sp</dimen>
+    <dimen name="medium_text">32sp</dimen>
+    <dimen name="large_text">64sp</dimen>
+    <dimen name="table_text">122sp</dimen>
+
+    <!-- Custom -->
+    <dimen name="button">68dp</dimen>
+
+</resources>

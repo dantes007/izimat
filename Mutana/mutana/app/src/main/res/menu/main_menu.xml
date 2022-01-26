@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+
+    <item
+        android:id="@+id/help"
+        android:title="Aide"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/feedback"
+        android:title="Contactez-nous"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/privacy"
+        android:title="Règle de confidentialité"
+        app:showAsAction="never"/>
+
+</menu>
